@@ -3,11 +3,26 @@
   "displayName": "Inei",
   "description": "Dark cold Visual Studio Code color theme",
   "version": "0.0.1",
+  "license": "MIT",
+  "publisher": "Svygzhryr",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.101.0"
   },
+  "keywords": [
+    "theme",
+    "dark",
+    "cold",
+    "snow",
+    "metal",
+    "blue",
+    "purple",
+    "white",
+    "cyan"
+  ],
   "categories": [
-    "Themes"
+    "Themes",
+    "Other"
   ],
   "contributes": {
     "themes": [
