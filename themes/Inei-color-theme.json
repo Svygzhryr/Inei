@@ -71,13 +71,13 @@
     "editor.findMatchBackground": "#8775c72b",
     "editor.findMatchBorder": "#d0cae3",
     "editorLink.activeForeground": "#8160f8",
-    "editorWarning.background": "#dfa95e39",
-    "editorWarning.foreground": "#dfa95e",
+    "editorWarning.background": "#f7a45f20",
+    "editorWarning.foreground": "#d27d68",
     "editorInfo.foreground": "#c0b3e7",
     "editorGutter.background": "#0e0d12",
     "editorGutter.addedBackground": "#a797e2",
     "editorGutter.deletedBackground": "#f04279",
-    "editorGutter.modifiedBackground": "#dfa95e",
+    "editorGutter.modifiedBackground": "#d27d68",
     "editorCommentsWidget.rangeBackground": "#8775c74b",
     "editorCommentsWidget.unresolvedBorder": "#8160f8",
     "editorWidget.background": "#0e0d12",
@@ -85,7 +85,7 @@
     "editorWidget.foreground": "#d0cae3",
     "editorWidget.resizeBorder": "#d0cae3",
     "editorOverviewRuler.errorForeground": "#f04279",
-    "editorOverviewRuler.warningForeground": "#dfa95e",
+    "editorOverviewRuler.warningForeground": "#d27d68",
     "editorBracketHighlight.foreground1": "#d0cae3",
     "editorBracketHighlight.foreground2": "#8775c7",
     "editorBracketHighlight.foreground3": "#8160f8",
@@ -131,7 +131,7 @@
     "inputValidation.infoForeground": "#d0cae3",
     "inputValidation.infoBackground": "#36304b",
     "inputValidation.infoBorder": "#a797e2",
-    "inputValidation.warningForeground": "#dfa95e",
+    "inputValidation.warningForeground": "#d27d68",
     "inputValidation.warningBackground": "#4a406b",
     "inputValidation.warningBorder": "#8775c7",
     "inputValidation.errorForeground": "#f04279",
@@ -150,7 +150,7 @@
     "list.dropBackground": "#0e0d12",
     "list.activeSelectionBackground": "#4a406b",
     "list.activeSelectionForeground": "#d0cae3",
-    "list.warningForeground": "#dfa95e",
+    "list.warningForeground": "#d27d68",
     "list.errorForeground": "#f04279",
     "listFilterWidget.background": "#252231",
     "listFilterWidget.outline": "#4a406b",
@@ -170,7 +170,7 @@
     "mergeEditor.conflict.unhandled.minimapOverViewRuler": "#f0427948",
 
     "minimap.errorHighlight": "#f04279",
-    "minimap.warningHighlight": "#dfa95e",
+    "minimap.warningHighlight": "#d27d68",
 
     "notifications.background": "#0e0d12",
     "notifications.foreground": "#c0b3e7",
@@ -178,7 +178,7 @@
     "notificationsErrorIcon.foreground": "#f04279",
 
     "panel.background": "#0e0d12",
-    "panel.border": "#252231",
+    "panel.border": "#4a406b",
     "panelSectionHeader.foreground": "#d0cae3",
     "panelTitle.activeForeground": "#d0cae3",
 
@@ -202,7 +202,7 @@
     "statusBar.debuggingBackground": "#252231",
     "statusBarItem.errorBackground": "#0e0d12",
     "statusBarItem.errorForeground": "#f04279",
-    "statusBarItem.warningForeground": "#dfa95e",
+    "statusBarItem.warningForeground": "#d27d68",
 
     "titleBar.activeBackground": "#0e0d12",
     "titleBar.activeForeground": "#c0b3e7",
@@ -211,11 +211,11 @@
 
     "tab.border": "#0e0d12",
     "tab.inactiveModifiedBorder": "#0e0d12",
-    "tab.activeBackground": "#252231",
+    "tab.activeBackground": "#1a1821",
     "tab.activeForeground": "#d0cae3",
-    "tab.activeBorder": "#d0cae3",
+    "tab.activeBorder": "#a797e2",
     "tab.inactiveBackground": "#0e0d12",
-    "tab.inactiveForeground": "#a797e2",
+    "tab.inactiveForeground": "#6a5aa2",
 
     "textLink.activeForeground": "#8160f8",
     "textLink.foreground": "#a797e2",
@@ -233,7 +233,7 @@
     "terminal.ansiBrightBlack": "#36304b",
     "terminal.ansiBrightRed": "#ef004c",
     "terminal.ansiBrightGreen": "#8160f8",
-    "terminal.ansiBrightYellow": "#dfa95e",
+    "terminal.ansiBrightYellow": "#d27d68",
     "terminal.ansiBrightBlue": "#d0cae3",
     "terminal.ansiBrightMagenta": "#e52b91",
     "terminal.ansiBrightCyan": "#957bf5",
@@ -243,8 +243,8 @@
 
     "errorLens.errorForeground": "#f04279",
     "errorLens.errorBackground": "#f042791a",
-    "errorLens.warningForeground": "#dfa95e",
-    "errorLens.warningBackground": "#dfa95e1f"
+    "errorLens.warningForeground": "#d27d68",
+    "errorLens.warningBackground": "#d27d681f"
   },
   "tokenColors": [
     {
@@ -780,7 +780,7 @@
       "name": "CSS deprecated propeties",
       "scope": "invalid.deprecated.color.system.css",
       "settings": {
-        "foreground": "#dfa95e"
+        "foreground": "#d27d68"
       }
     },
     {
@@ -1268,7 +1268,7 @@
       ],
       "settings": {
         "fontStyle": "bold italic",
-        "foreground": "#dfa95e"
+        "foreground": "#d27d68"
       }
     },
     {
@@ -1341,7 +1341,7 @@
       "name": "Token - Warn",
       "scope": "token.warn-token",
       "settings": {
-        "foreground": "#dfa95e"
+        "foreground": "#d27d68"
       }
     },
     {

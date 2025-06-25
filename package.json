@@ -20,6 +20,10 @@
     "white",
     "cyan"
   ],
+  "repository": {
+    "url": "https://github.com/Svygzhryr/Inei.git",
+    "type": "git"
+  },
   "categories": [
     "Themes",
     "Other"
